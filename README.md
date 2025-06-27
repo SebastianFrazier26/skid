@@ -8,6 +8,7 @@ Sketch-based authentication system based on existing keystroke authentication to
 Problem: Online Authentication continues to increase in difficulty with improvements in computing power and global digitilization. Existing strategies for authentication are flawed.
 
 | Idea | Issue | cop or drop |
+| -----|-------|-------------|
 | Written Passwords | Writing down passwords risks would-be attackers getting their hands on critical information. Physical copies are also easy to misplace. | ❌ |
 | Good-ole fashioned memory | Remembering so many passwords is difficult for the average person, it results in password repition or simpler patterns and that's no good. | ❌ |
 | Password Managers | Secure password managers are good but they require their own authentication and put all your eggs in one basket. Better, but still not great. | ❌ |
