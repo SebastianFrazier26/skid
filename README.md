@@ -18,5 +18,4 @@ Problem: Online Authentication continues to increase in difficulty with improvem
 
 ## Authentication based on creativity
 
-What is the one thing that can't be copied or stolen from someone? Their creativity. Our minds and bodies change over time but our creative efforts provide a subjective-signature that requires no memorization or additional technology because its innate to us. Sketch is based on the idea that people all think differently and that the way we think is the hardest thing to copy. I've always been entertained by the concept of solipsism and this conclusion follows from the same premise.
-
+What is the one thing that can't be copied or stolen from someone? Their creativity. Our minds and bodies change over time but our creative efforts provide a subjective-signature that requires no memorization or additional technology because its innate to us. Sketch is based on the idea that people all think differently and that the way we think is the hardest thing to copy. I've always been entertained by the concept of solipsism and this conclusion follows from the same premise. ✅
